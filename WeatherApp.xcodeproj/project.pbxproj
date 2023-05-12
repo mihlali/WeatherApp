@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		ED234A102A0E02490029FF97 /* MockWeatherService.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED234A0F2A0E02490029FF97 /* MockWeatherService.swift */; };
+		ED4C7E552A0E23A000E016CB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = ED4C7E542A0E23A000E016CB /* README.md */; };
 		EDB5887B2A099560002EC74F /* ForeCastWeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB5887A2A099560002EC74F /* ForeCastWeatherModel.swift */; };
 		EDE300362A06825E0047E363 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE300352A06825E0047E363 /* AppDelegate.swift */; };
 		EDE300382A06825E0047E363 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE300372A06825E0047E363 /* SceneDelegate.swift */; };
@@ -45,6 +46,7 @@
 
 /* Begin PBXFileReference section */
 		ED234A0F2A0E02490029FF97 /* MockWeatherService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockWeatherService.swift; sourceTree = "<group>"; };
+		ED4C7E542A0E23A000E016CB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EDB5887A2A099560002EC74F /* ForeCastWeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeCastWeatherModel.swift; sourceTree = "<group>"; };
 		EDE300322A06825E0047E363 /* WeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDE300352A06825E0047E363 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -151,6 +153,7 @@
 				EDE3003E2A06825F0047E363 /* Assets.xcassets */,
 				EDE300402A06825F0047E363 /* LaunchScreen.storyboard */,
 				EDE300432A06825F0047E363 /* Info.plist */,
+				ED4C7E542A0E23A000E016CB /* README.md */,
 			);
 			path = WeatherApp;
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 			files = (
 				EDE300422A06825F0047E363 /* LaunchScreen.storyboard in Resources */,
 				EDE3003F2A06825F0047E363 /* Assets.xcassets in Resources */,
+				ED4C7E552A0E23A000E016CB /* README.md in Resources */,
 				EDE3003D2A06825E0047E363 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
